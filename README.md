@@ -1,5 +1,4 @@
-# Test-technique - Trustia
-
+### Entrainement ###
 # Exercice 1 -- Blocs de texte en Python
 
 ## Description
