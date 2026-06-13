@@ -118,7 +118,7 @@ Cette application web développée avec Django (backend) et JavaScript
 
 ## Installation
 
-1.  Cloner le projet : git clone https://github.com/terrielama/Test-technique-Trustia/tree/main
+1.  Cloner le projet : git clone https://github.com/terrielama/entrainement_py_dj/tree/main
 
 2.  Aller dans le dossier : cd projet
 
